@@ -1,0 +1,303 @@
+# depslib dependency file v1.0
+1507671237 source:/media/bakr/Local Disk1/worke space/codeBlocks/shell/command_parser.c
+	"command_parser.h"
+
+1507671282 /media/bakr/Local Disk1/worke space/codeBlocks/shell/command_parser.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1507717683 source:/media/bakr/Local Disk1/worke space/codeBlocks/shell/commands.c
+	"commands.h"
+	"environment.h"
+
+1507716912 /media/bakr/Local Disk1/worke space/codeBlocks/shell/commands.h
+	<stdio.h>
+	<string.h>
+	<sys/wait.h>
+	<unistd.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1507709661 source:/media/bakr/Local Disk1/worke space/codeBlocks/shell/environment.c
+	"environment.h"
+	"variables.h"
+	<stdio.h>
+	<stdlib.h>
+
+1507709671 /media/bakr/Local Disk1/worke space/codeBlocks/shell/environment.h
+
+1507590483 /media/bakr/Local Disk1/worke space/codeBlocks/shell/variables.h
+	<stdbool.h>
+
+1507665701 source:/media/bakr/Local Disk1/worke space/codeBlocks/shell/file_processing.c
+	"file_processing.h"
+	"environment.h"
+
+1507535125 /media/bakr/Local Disk1/worke space/codeBlocks/shell/file_processing.h
+	<stdio.h>
+
+1507716296 source:/media/bakr/Local Disk1/worke space/codeBlocks/shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"variables.h"
+	"environment.h"
+
+1507673160 source:/media/bakr/Local Disk1/worke space/codeBlocks/shell/variables.c
+	"variables.h"
+	<stdio.h>
+	<string.h>
+
+1507488511 source:/media/bakr/Local Disk/worke space/codeBlocks/shell/command_parser.c
+	"command_parser.h"
+
+1507486018 /media/bakr/Local Disk/worke space/codeBlocks/shell/command_parser.h
+	<stdio.h>
+	<stdlib.h>
+
+1507485965 source:/media/bakr/Local Disk/worke space/codeBlocks/shell/commands.c
+	"commands.h"
+
+1507486030 /media/bakr/Local Disk/worke space/codeBlocks/shell/commands.h
+	<stdio.h>
+	<string.h>
+	<sys/wait.h>
+	<sys/wait.h>
+
+1507485978 source:/media/bakr/Local Disk/worke space/codeBlocks/shell/environment.c
+	"environment.h"
+	"variables.h"
+
+1507486043 /media/bakr/Local Disk/worke space/codeBlocks/shell/environment.h
+
+1507486061 /media/bakr/Local Disk/worke space/codeBlocks/shell/variables.h
+
+1507485991 source:/media/bakr/Local Disk/worke space/codeBlocks/shell/file_processing.c
+	"file_processing.h"
+
+1507486051 /media/bakr/Local Disk/worke space/codeBlocks/shell/file_processing.h
+	<stdio.h>
+
+1507495100 source:/media/bakr/Local Disk/worke space/codeBlocks/shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507494434 source:/media/bakr/Local Disk/worke space/codeBlocks/shell/variables.c
+	"variables.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507535090 source:/home/bakr/Desktop/temp_shell/version_2/shell/command_parser.c
+	"command_parser.h"
+
+1507535096 /home/bakr/Desktop/temp_shell/version_2/shell/command_parser.h
+	<stdio.h>
+	<stdlib.h>
+
+1507544430 source:/home/bakr/Desktop/temp_shell/version_2/shell/environment.c
+	"environment.h"
+	"variables.h"
+
+1507486043 /home/bakr/Desktop/temp_shell/version_2/shell/environment.h
+
+1507486061 /home/bakr/Desktop/temp_shell/version_2/shell/variables.h
+
+1507556552 source:/home/bakr/Desktop/temp_shell/version_2/shell/file_processing.c
+	"file_processing.h"
+
+1507535125 /home/bakr/Desktop/temp_shell/version_2/shell/file_processing.h
+	<stdio.h>
+
+1507556351 source:/home/bakr/Desktop/temp_shell/version_2/shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variables.h"
+
+1507556280 source:/home/bakr/Desktop/temp_shell/version_2/shell/commands.c
+	"commands.h"
+	<stdio.h>
+
+1507535108 /home/bakr/Desktop/temp_shell/version_2/shell/commands.h
+	<stdio.h>
+	<string.h>
+	<sys/wait.h>
+	<sys/wait.h>
+
+1507555501 source:/home/bakr/Desktop/temp_shell/version_2/shell/variables.c
+	"variables.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507727302 source:/home/bakr/Desktop/temp_shell/version_3/shell/command_parser.c
+	"command_parser.h"
+
+1507671282 /home/bakr/Desktop/temp_shell/version_3/shell/command_parser.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1507709661 source:/home/bakr/Desktop/temp_shell/version_3/shell/environment.c
+	"environment.h"
+	"variables.h"
+	<stdio.h>
+	<stdlib.h>
+
+1507709671 /home/bakr/Desktop/temp_shell/version_3/shell/environment.h
+
+1507590483 /home/bakr/Desktop/temp_shell/version_3/shell/variables.h
+	<stdbool.h>
+
+1507665701 source:/home/bakr/Desktop/temp_shell/version_3/shell/file_processing.c
+	"file_processing.h"
+	"environment.h"
+
+1507535125 /home/bakr/Desktop/temp_shell/version_3/shell/file_processing.h
+	<stdio.h>
+
+1507716296 source:/home/bakr/Desktop/temp_shell/version_3/shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"variables.h"
+	"environment.h"
+
+1507673160 source:/home/bakr/Desktop/temp_shell/version_3/shell/variables.c
+	"variables.h"
+	<stdio.h>
+	<string.h>
+
+1507727606 source:/home/bakr/Desktop/temp_shell/version_3/shell/commands.c
+	"commands.h"
+	"environment.h"
+
+1507727664 /home/bakr/Desktop/temp_shell/version_3/shell/commands.h
+	<stdio.h>
+	<string.h>
+	<sys/wait.h>
+	<unistd.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1507727302 source:/home/bakr/Desktop/shell_/command_parser.c
+	"command_parser.h"
+
+1507671282 /home/bakr/Desktop/shell_/command_parser.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1507748516 source:/home/bakr/Desktop/shell_/commands.c
+	"commands.h"
+	"environment.h"
+	"file_processing.h"
+	"signal.h"
+	<unistd.h>
+
+1507727664 /home/bakr/Desktop/shell_/commands.h
+	<stdio.h>
+	<string.h>
+	<sys/wait.h>
+	<unistd.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1507748058 /home/bakr/Desktop/shell_/environment.h
+
+1507748051 source:/home/bakr/Desktop/shell_/environment.c
+	"environment.h"
+	"variables.h"
+	<stdio.h>
+	<stdlib.h>
+
+1507590483 /home/bakr/Desktop/shell_/variables.h
+	<stdbool.h>
+
+1507748136 source:/home/bakr/Desktop/shell_/file_processing.c
+	"file_processing.h"
+	"environment.h"
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+
+1507748117 /home/bakr/Desktop/shell_/file_processing.h
+	<stdio.h>
+	<stdbool.h>
+
+1507749579 source:/home/bakr/Desktop/shell_/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"variables.h"
+	"environment.h"
+
+1507673160 source:/home/bakr/Desktop/shell_/variables.c
+	"variables.h"
+	<stdio.h>
+	<string.h>
+
+1507727302 source:/home/bakr/Desktop/lab1_62/shell_code/command_parser.c
+	"command_parser.h"
+
+1507671282 /home/bakr/Desktop/lab1_62/shell_code/command_parser.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1507754495 source:/home/bakr/Desktop/lab1_62/shell_code/commands.c
+	"commands.h"
+	"environment.h"
+	"file_processing.h"
+	"signal.h"
+	<unistd.h>
+
+1507727664 /home/bakr/Desktop/lab1_62/shell_code/commands.h
+	<stdio.h>
+	<string.h>
+	<sys/wait.h>
+	<unistd.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1507748058 /home/bakr/Desktop/lab1_62/shell_code/environment.h
+
+1507986628 /home/bakr/Desktop/lab1_62/shell_code/file_processing.h
+	<stdio.h>
+	<stdbool.h>
+
+1507748051 source:/home/bakr/Desktop/lab1_62/shell_code/environment.c
+	"environment.h"
+	"variables.h"
+	<stdio.h>
+	<stdlib.h>
+
+1507590483 /home/bakr/Desktop/lab1_62/shell_code/variables.h
+	<stdbool.h>
+
+1507754498 source:/home/bakr/Desktop/lab1_62/shell_code/variables.c
+	"variables.h"
+	<stdio.h>
+	<string.h>
+
+1507985665 source:/home/bakr/Desktop/lab1_62/shell_code/file_processing.c
+	"file_processing.h"
+	"environment.h"
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+
+1507985284 source:/home/bakr/Desktop/lab1_62/shell_code/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"variables.h"
+	"environment.h"
+

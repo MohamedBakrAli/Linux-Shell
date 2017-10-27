@@ -1,0 +1,121 @@
+ls
+ls -al
+clear
+ls -a -l
+          /bin/ls  -l
+clear
+vim
+vim
+¬ôclear
+clear
+gedit &
+ps
+bin/ps
+pwd
+ls
+ls -al 
+clear
+ls -a -l
+clear
+/bin/ls -l -a
+clear
+/bin/ls
+/bin/ls -l
+vim
+# command
+x="~/Desktop"
+clear
+cd $x
+ls
+pwd
+cd ../
+pwd
+cd ~
+pwd
+cd ../
+pwd
+cd
+pwd
+cd ~/Desktop
+pwd
+ls
+clear
+gedit &
+gedit
+ps
+bin/ps
+/bin/ps
+clear
+hisrory
+history
+cleaar
+clear
+pwd
+mkdir cs333
+ls
+touch cs333/lab1.txt
+cd  ~/cs333
+cd ~/Desktop/cs333
+ls
+pwd
+vi lab1.txt
+cd /Desktop
+cd Desktop
+ls
+wc cs333/lab1.x
+wc cs333/lab.txt
+wc cs333/lab1.txt
+cat cs333/lab1.txt
+#this is comment
+x=5
+clear
+echo $x
+echo "hello world "
+echo      "hello           world"
+echo
+histry
+history
+clear
+clear
+x=d
+x=5
+echo $x
+echo "hello world"
+echo            "hello     world " $x
+x="cd ~/Dektop/cs333"
+$x
+x"cd ~/Desktop/cs333"
+x="cd ~/Desktop/cs333"
+$x
+pwd
+exit
+exit
+òMˇçs#dsd
+ls
+cd 
+ls
+gedit
+ls
+#
+ls
+cd 
+w
+ldcl
+ls
+cd
+xÎ÷].ls
+x˚ãnls -al
+ls
+ls -al
+ls -a -l
+
+ls
+ls -al
+ls -a -l
+/bin/ls -l -a
+        /bin/ls     -l 
+
+exit
+exit
+exit
+lsls -alls -a -l/bin/ls -l -a        /bin/ls     -l vimgedit &psbin/pspwdmkdir cs333touch cs333/lab1.txtcd ~/cs333vi lab1.txtlsls -alls -a -l/bin/ls -l -a        /bin/ls     -l vimgedit &psbin/pspwdmkdir cs333touch cs333/lab1.txtcd ~/cs333#vi lab1.txtpwdcd ../cd ~wc cs333/lab1.txtcat cs333/lab1.txt#this is a commentx=5echo $xecho "hello world"echo              	"hello           world"historygedit &psbin/pspwdmkdir cs333touch cs333/lab1.txtcd ~/cs333#vi lab1.txtpwdcd ../cd ~wc cs333/lab1.txtcat cs333/lab1.txt#this is a commentx=5echo $xecho "hello world"echo              	"hello           world"historybin/psls
